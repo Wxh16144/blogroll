@@ -13,12 +13,13 @@ _(排列顺序不分先后)_
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/) — 科技爱好者周刊，通俗的技术随笔
 - [张鑫旭的博客](https://www.zhangxinxu.com/) — CSS 与前端细节
 - [Anthony Fu](https://antfu.me/posts) — A fanatical open sourceror and design engineer.
+- [Xinhui工作室](https://2xinhui.com) — 海外账户、虚拟卡、eSIM，云居民实操教程
 
 ---
 
 ### 交换友链
 
-欢迎交换友链，先在你的站点添加本站，然后 [![Edit README](https://img.shields.io/badge/Edit_README-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wxh16144/blogroll/edit/main/README.md) 提交 PR，我将尽快处理。
+欢迎交换友链，先在你的站点添加本站，然后 [![Edit README](https://img.shields.io/badge/Edit_README-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wxh16144/blogroll/edit/main/README.md) 提交 PR，我会尽快处理。
 
 <sub>以下为本站信息</sub>
 
