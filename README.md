@@ -13,6 +13,7 @@ _(排列顺序不分先后)_
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/) — 科技爱好者周刊，通俗的技术随笔
 - [张鑫旭的博客](https://www.zhangxinxu.com/) — CSS 与前端细节
 - [Anthony Fu](https://antfu.me/posts) — A fanatical open sourceror and design engineer.
+- [Xinhui工作室](https://2xinhui.com) — 海外账户、虚拟卡、eSIM，云居民实操教程
 
 ---
 
