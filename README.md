@@ -19,7 +19,7 @@ _(排列顺序不分先后)_
 
 ### 交换友链
 
-欢迎交换友链，先在你的站点添加本站，然后 [![Edit README](https://img.shields.io/badge/Edit_README-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wxh16144/blogroll/edit/main/README.md) 提交 PR，我会尽快处理。
+欢迎交换友链，先在你的站点添加本站，然后[![Edit README](https://img.shields.io/badge/Edit_README-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wxh16144/blogroll/edit/main/README.md)提交 PR，我会尽快处理。
 
 <sub>以下为本站信息</sub>
 
